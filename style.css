@@ -428,3 +428,19 @@ footer{
         margin-top:15px;
     }
 }
+.social-icons{
+display:flex;
+gap:20px;
+align-items:center;
+}
+
+.social-icons a{
+color:white;
+font-size:1.3rem;
+transition:0.3s;
+}
+
+.social-icons a:hover{
+color:#3b82f6;
+transform:translateY(-3px);
+}
