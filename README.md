@@ -1,4 +1,4 @@
-```md id="portfolio-readme"
+
 # Vikas Basa — Portfolio Website
 
 Modern portfolio website showcasing my experience, projects, technical skills, and software engineering background.
@@ -107,5 +107,3 @@ vikasbasa729@gmail.com
 Vikas Basa
 
 Software Engineer | AI Enthusiast | Automation & Data Analytics
-
-```
